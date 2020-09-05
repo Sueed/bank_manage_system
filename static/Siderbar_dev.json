@@ -1,0 +1,19 @@
+{
+    "list":[
+        {
+        "icon": "el-icon-s-home",
+        "index": "dashboard",
+        "title": "系统首页"
+    },
+    {
+        "icon": "el-icon-warning",
+        "index": "1",
+        "title": "相关文档",
+        "subs": [
+            {
+                "index": "permission",
+                "title": "权限测试"
+            }
+        ]
+    }]
+}

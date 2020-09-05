@@ -1,0 +1,30 @@
+{
+    "list":[
+        {
+        "icon": "el-icon-s-home",
+        "index": "dashboard",
+        "title": "系统首页"
+    },
+    {
+        "icon": "el-icon-user",
+        "index": "1",
+        "title": "客户管理",
+        "subs": [
+            {
+                "index": "client_account_manage",
+                "title": "客户账户管理"
+            }
+        ]
+    },
+    {
+        "icon": "el-icon-warning",
+        "index": "2",
+        "title": "相关文档",
+        "subs": [
+            {
+                "index": "permission",
+                "title": "权限测试"
+            }
+        ]
+    }]
+}
